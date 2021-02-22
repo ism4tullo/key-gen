@@ -1,1 +1,2 @@
-# key-gen
+# Usage
+python main.py
